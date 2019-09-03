@@ -9,7 +9,7 @@ be able to figure it out as you go.
 [string1.py](./string1.py) -- Complete the string functions in string1.py,
 based on your knowledge of Python strings, indexing, slicing, and methods.
 
-[string2.py](./string2.py) -- Additional string function completions.
+[string2.py](./string2.py) -- Additional string fucdnction completions.
 
 
 ## PR (Pull Request) Workflow for this Assignment
